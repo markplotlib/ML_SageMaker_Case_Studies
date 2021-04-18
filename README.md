@@ -1,5 +1,4 @@
-Full credit to original source, for this learning exercise: [Udacity.com ML Nanodegree]
-(https://github.com/udacity/ML_SageMaker_Studies/)
+Full credit to original source, for this learning exercise: [Udacity.com ML Nanodegree](https://github.com/udacity/ML_SageMaker_Studies/)
 
 # Machine Learning, Deployment Case Studies with AWS SageMaker
 
